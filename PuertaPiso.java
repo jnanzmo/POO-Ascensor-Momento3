@@ -1,0 +1,2 @@
+class PuertaPiso extends Puerta {
+}
